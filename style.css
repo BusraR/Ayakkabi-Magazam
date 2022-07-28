@@ -1,0 +1,47 @@
+.logo
+{
+    width:auto;
+    height: 40px;
+}
+h1, h2 ,h3 ,h4 ,h5
+{
+    text-align: center;
+    color:#5f0a54;
+    font-style: italic;
+}
+.body{
+    background-color:#E9ECEF;
+}
+.fotograf
+{
+width: auto;
+height:100px;
+padding:20px 0px 0px 35px;
+}
+.etiket{
+    background-color: grey; 
+    color: white; 
+    
+}
+img
+{
+    height:175px;
+    width: auto;
+}
+.pill{
+    background-color: grey; 
+    color: white; 
+    font-size: 9px;
+    
+}
+a {
+    display: block;
+    color: #000000;
+    text-decoration: none;
+    font-style:italic;
+    font-size: large;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: #1a0216;
+  }
